@@ -1,0 +1,14 @@
+F:\Projects\Oop training\Calc\calc\calc\obj\Debug\net10.0\calc.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Oop training\Calc\calc\calc\obj\Debug\net10.0\calc.AssemblyInfoInputs.cache
+F:\Projects\Oop training\Calc\calc\calc\obj\Debug\net10.0\calc.AssemblyInfo.cs
+F:\Projects\Oop training\Calc\calc\calc\obj\Debug\net10.0\calc.csproj.CoreCompileInputs.cache
+F:\Projects\Oop training\Calc\calc\calc\bin\Debug\net10.0\calc.exe
+F:\Projects\Oop training\Calc\calc\calc\bin\Debug\net10.0\calc.deps.json
+F:\Projects\Oop training\Calc\calc\calc\bin\Debug\net10.0\calc.runtimeconfig.json
+F:\Projects\Oop training\Calc\calc\calc\bin\Debug\net10.0\calc.dll
+F:\Projects\Oop training\Calc\calc\calc\bin\Debug\net10.0\calc.pdb
+F:\Projects\Oop training\Calc\calc\calc\obj\Debug\net10.0\calc.dll
+F:\Projects\Oop training\Calc\calc\calc\obj\Debug\net10.0\refint\calc.dll
+F:\Projects\Oop training\Calc\calc\calc\obj\Debug\net10.0\calc.pdb
+F:\Projects\Oop training\Calc\calc\calc\obj\Debug\net10.0\calc.genruntimeconfig.cache
+F:\Projects\Oop training\Calc\calc\calc\obj\Debug\net10.0\ref\calc.dll
